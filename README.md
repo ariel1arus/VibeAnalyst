@@ -46,5 +46,5 @@ Output:
 
 Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/security-audit-dashboard.git
+git clone https://github.com/ariel1arus/VibeAnalyst.git
 cd security-audit-dashboard
