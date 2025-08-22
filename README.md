@@ -20,6 +20,12 @@ This project is designed for **SOC analysts, security students, and sysadmins** 
   - Map findings to **CVE references**
   - Suggest remediation steps
   - **Grade security posture** (1–100)
+  - | Flag           | Description                                         |
+| -------------- | --------------------------------------------------- |
+| `--hours`      | Look back X hours in Sysmon logs (default: 24)      |
+| `--max-sysmon` | Maximum Sysmon events to parse (default: 500)       |
+| `--model`      | AI model to use (`gpt-4.1`, `gpt-4o`, `gemini-pro`) |
+| `--out`        | Base filename for output (default: timestamp-based) |
 
 Output:
 - `.md` (Markdown) report with detailed findings
