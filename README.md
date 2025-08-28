@@ -1,7 +1,7 @@
 # VibeAnalyst
 an ai driven  powerfull cyber security analyst 
 
-
+!!!! REQUIRES AN API KEY TO BE EXPORTED ON THE SYSTEM AS ENVIRONMENT VARIABLE !!!!!
 # 🛡️ Security Audit & Dashboard Toolkit
 
 A two-part toolkit for **collecting system & log data**, analyzing it with **AI models (OpenAI or Google Gemini)**, and turning the results into a **beautiful interactive dashboard**.  
